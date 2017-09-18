@@ -1,0 +1,14 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Quête node serveur",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "m1roh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
